@@ -1,0 +1,39 @@
+table{
+  margin: top 50px;
+  text-align: center;
+  background: rgb(243, 240, 240);
+  color: rgb(8, 0, 0);
+}
+
+#show{
+    margin-top: 20px;
+}
+
+#show th, #show td{
+    padding: 13px;
+}
+
+#btna td input{
+width: 100%;
+}
+.has-search .form-control {
+  padding-left: 2.375rem;
+}
+.form-group{
+  width: 300px;
+}
+
+.has-search .form-control-feedback {
+  position: absolute;
+  z-index: 2;
+  display: block;
+  width: 2.375rem;
+  height: 2.375rem;
+  line-height: 2.375rem;
+  text-align: center;
+  pointer-events: none;
+  color: #aaa;
+}
+.table{
+  width: 1000px;
+}
